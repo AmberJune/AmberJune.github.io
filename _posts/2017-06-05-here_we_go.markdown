@@ -8,11 +8,11 @@ Upon thinking about how I feel right now, in this space and this time, my first 
 
 ![](http://i.imgur.com/exMavLl.jpg)
 
-Today marks my official first day starting Flatiron School's **Online Web Developer Program** and let me tell you, I am more than excited to begin. So many things in the universe came together and synced up just right to make this happen for me, in an almost eery, uncanny way to make me think that "this was meant to be".
+Today marks my official first day starting Flatiron School's **Online Web Developer Program** and let me tell you, I am more than excited to begin. So many things in the universe came together and synced up just right to make this happen for me, in an almost eerie, uncanny way to make me think that "this was meant to be".
 
 I've been a Graphic/Web Designer for 11 years now and have done a lot of Front-end Web Development throughout that time. I've built countless websites from the ground up, concept to completion, design to code.
 
-I have extensive exerience in Responsive Design and adopted it in it's infancy in 2011, before all the fancy schmancy frameworks were available or widely used. Bootstrap was my first love and I think always will be when it comes to responsive front-end web frameworks, but I've tried others such as Foundation and Skeleton and enjoyed them too.
+I have extensive experience in Responsive Design and adopted it in it's infancy in 2011, before all the fancy schmancy frameworks were available or widely used. Bootstrap was my first love and I think always will be when it comes to responsive front-end web frameworks, but I've tried others such as Foundation and Skeleton and enjoyed them too.
 
 Over the years, I've worked in many CMSs (content management systems) including Wordpress, Joomla, ExpressionEngine, Drupal, Umbraco, and even some of the more obscure ones such as Light CMS, Perch, DNN, and Anchor. I even tried Magento (very hard).
 
