@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Here We Go!"
+date:   2017-06-05 23:35:00 +0000
+---
+
+![](http://i.imgur.com/exMavLl.jpg)
+
+Upon thinking about how I feel right now, in this space and this time, my first instinct was to use an image of Mario so enthusiastically saying "HERE WE GO!" as the intro image to my first blog here. As anyone who has ever played a Mario game knows, he is always *really* excited to jump into his new adventure, just as I am today.
+
+Today marks my official first day starting Flatiron School's **Online Web Developer Program** and let me tell you, I am more than excited to begin. So many things in the universe came together and synced up just right to make this happen for me, in an almost eery, uncanny way to make me think that "this was meant to be".
+
+I've been a Graphic/Web Designer for 11 years now and have done a lot of Front-end Web Development throughout that time. I've built countless websites from the ground up, concept to completion, design to code.
+
+I have extensive exerience in Responsive Design and adopted it in it's infancy in 2011, before all the fancy schmancy frameworks were available or widely used. Bootstrap was my first love and I think always will be when it comes to responsive front-end web frameworks, but I've tried others such as Foundation and Skeleton and enjoyed them too.
+
+Over the years, I've worked in many CMSs (content management systems) including Wordpress, Joomla, ExpressionEngine, Drupal, Umbraco, and even some of the more obscure ones such as Light CMS, Perch, DNN, and Anchor. I even tried Magento (very hard).
+
+But something was always missing. You see, **I dabbled A LOT**.
+
+I edited whichever code language each CMS used (primarily PHP with Wordpress), and tweaked JavaScript and jQuery plugins and widgets, but I never really took the plunge and dived into *really* learning things from the ground up. Working full-time, 40+ hours a week, at a demanding job put a strain on my time and energy, so I was always left wanting more.
+
+Since building websites is my passion, I've kept up on trends in the industry throughout my career (Twitter is a wonderful thing) and this statement rings very true: Web Development is changing, or better said, it *has* changed.
+
+Gone are the days of a Web Developer being a master of HTML, CSS, PHP and Wordpress, and knowing their way around JavaScript and jQuery.
+
+Today, everything is about frameworks, the git workflow, speedy development, automation, and proper organization of assets and resources. Employers hiring web devs are looking for a particular set of skills you must know. They are looking for a GitHub code portfolio. They are looking for your blog about the process (and progress) of your code.
+
+Web Development is now all about the various, popular JS frameworks including Angular, React, Node, and Ember; automation tools like Grunt and Gulp; package managers such as npm and Bower; CSS preprocessors like LESS and Sass, and Sass is Ruby, so you must know that too!
+
+So that is why I am here. **I want to be a Web Developer**, and I want to be a good one.
+
+I know that this is the next step in my career. I've spent too many years dabbling and tweaking code. And sure, it's been a fun ride; I always taught myself new things and kept up on the trends to the best of my abilities, but I need structure. I graduated from my Graphic/Web Design program in 2006, jumped right into my career, and didn't really see myself going back to school... until now.
+
+I am making it happen. I will become the badass Web Developer I want to be. Wish me luck!
