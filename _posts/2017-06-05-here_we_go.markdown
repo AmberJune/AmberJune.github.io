@@ -26,7 +26,7 @@ Gone are the days of a Web Developer being a master of HTML, CSS, PHP and Wordpr
 
 Today, everything is about frameworks, the git workflow, speedy development, automation, and proper organization of assets and resources. Employers hiring web devs are looking for a particular set of skills you must know. They are looking for a GitHub code portfolio. They are looking for your blog about the process (and progress) of your code.
 
-Web Development is now all about the various, popular JS frameworks including Angular, React, Node, and Ember; automation tools like Grunt and Gulp; package managers such as npm and Bower; CSS preprocessors like LESS and Sass, and Sass is Ruby, so you must know that too!
+Web Development is now all about the various, popular JS frameworks including Angular, React, Node, and Ember; automation tools like Grunt and Gulp; package managers such as npm, Bower, and Homebrew; CSS preprocessors like LESS and Sass, and Sass is Ruby, so you must know that too!
 
 So that is why I am here. **I want to be a Web Developer**, and I want to be a good one.
 
