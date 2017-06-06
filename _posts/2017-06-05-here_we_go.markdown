@@ -28,7 +28,7 @@ Today, everything is about frameworks, the git workflow, speedy development, aut
 
 Web Development is now all about the various, popular JS frameworks including Angular, React, Node, and Ember; automation tools like Grunt and Gulp; package managers such as npm, Bower, and Homebrew; CSS preprocessors like LESS and Sass, and Sass is Ruby, so you must know that too!
 
-So that is why I am here. **I want to be a Web Developer**, and I want to be a good one.
+So that is why I am here. **I want to be a Web Developer**, and I want to be a good one using modern tools.
 
 I know that this is the next step in my career. I've spent too many years dabbling and tweaking code. And sure, it's been a fun ride; I always taught myself new things and kept up on the trends to the best of my abilities, but I need structure. I graduated from my Graphic/Web Design program in 2006, jumped right into my career, and didn't really see myself going back to school... until now.
 
