@@ -12,7 +12,7 @@ Today marks my official first day starting Flatiron School's **Online Web Develo
 
 I've been a Graphic/Web Designer for 11 years now and have done a lot of Front-end Web Development throughout that time. I've built countless websites from the ground up, concept to completion, design to code.
 
-I have extensive experience in Responsive Design and adopted it in it's infancy in 2011, before all the fancy schmancy frameworks were available or widely used. Bootstrap was my first love and I think always will be when it comes to responsive front-end web frameworks, but I've tried others such as Foundation and Skeleton and enjoyed them too.
+I have extensive experience in Responsive Design and adopted it in its infancy in 2011, before all the fancy schmancy frameworks were available or widely used. Bootstrap was my first love and I think always will be when it comes to responsive front-end web frameworks, but I've tried others such as Foundation and Skeleton and enjoyed them too.
 
 Over the years, I've worked in many CMSs (content management systems) including Wordpress, Joomla, ExpressionEngine, Drupal, Umbraco, and even some of the more obscure ones such as Light CMS, Perch, DNN, and Anchor. I even tried Magento (very hard).
 
@@ -28,7 +28,7 @@ Today, everything is about frameworks, the git workflow, speedy development, aut
 
 Web Development is now all about the various, popular JS frameworks including Angular, React, Node, and Ember; automation tools like Grunt and Gulp; package managers such as npm, Bower, and Homebrew; CSS preprocessors like LESS and Sass, and Sass is Ruby, so you must know that too!
 
-So that is why I am here. **I want to be a Web Developer**, and I want to be a good one using modern tools.
+So that is why I am here. **I want to be a Web Developer**, and I want to be a good one, using modern tools.
 
 I know that this is the next step in my career. I've spent too many years dabbling and tweaking code. And sure, it's been a fun ride; I always taught myself new things and kept up on the trends to the best of my abilities, but I need structure. I graduated from my Graphic/Web Design program in 2006, jumped right into my career, and didn't really see myself going back to school... until now.
 
