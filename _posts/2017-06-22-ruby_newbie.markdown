@@ -44,7 +44,7 @@ Being a perfectionist (and a little OCD at times), I felt like I was locked into
 
 Then it came to me, I was being too black and white. This program is about learning at your own pace so why shouldn't I jump around a little!
 
-So I did just that; moved onto the **HTML and CSS** course which I knew would be cake because I already know HTML and CSS like the back of my hand. I paused on the "Setting Up a New Site" part since it got into Git version control, then I moved onto the **Git and GithHub** course and learned all that.
+So I did just that; moved onto the **HTML and CSS** course which I knew would be cake because I already know HTML and CSS like the back of my hand. I paused on the "Setting Up a New Site" part since it got into Git version control, then I moved onto the **Git and GitHub** course and learned all that like BOOSH!
 
 <iframe src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
