@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ruby Newbie"
-date:   2017-06-22 23:32:05 +0000
+date:   2017-06-22 19:32:05 -0400
 ---
 
 Well, it's official; this week marks the end of my first 3 weeks in the **Online Web Developer Program** at **Flatiron School**. So far things have been going pretty darn good.
@@ -10,7 +10,7 @@ I started with a solid pace in the **Intro to Ruby** course, got stuck halfway t
 
 You see, I'm one of those people who likes to wait to ask for help until I absolutely need it. I feel like I learn best by trying to solve the problem on my own first. I've always been like that.
 
-In high school, I was super shy/quiet and preferred working alone. I took a lot of work home because it was easier for me to think. Other people were exhausting to me. 
+In high school, I was super shy and quiet, and I preferred to work alone. I took a lot of work home because it was easier for me to think. Other people were exhausting to me. 
 
 <iframe src="https://giphy.com/embed/rbDUB907SGjsY" width="480" height="233" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
