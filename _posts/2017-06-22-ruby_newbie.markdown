@@ -46,8 +46,10 @@ Then it came to me, I was being too black and white. This program is about learn
 
 So I did just that; moved onto the **HTML and CSS** course which I knew would be cake because I already know HTML and CSS like the back of my hand. I paused on the "Setting Up a New Site" part since it got into Git version control, then I moved onto the **Git and GitHub** course and learned all that like BOOSH!
 
-<iframe src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/PhKhSXofSAm3e" width="480" height="191" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Learning Git and GitHub has been on my "To Do" list for YEARS. I understood its purpose but hadn't really delved into the terminology before now and I was scared to death of the Command Line. After knocking that course out I felt like I had accomplished something huge, and it was SO easy to learn!
 
 So I think my new strategy is going to be to go back to the **Intro to Ruby** course and continue my work there, but if I get stuck for a while or complete a really frustrating lab, then I will jump around back to HTML and CSS, crank out a few lessons/labs and feel good about myself again.
+
+<iframe src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
