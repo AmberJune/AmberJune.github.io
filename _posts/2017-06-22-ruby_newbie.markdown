@@ -12,7 +12,7 @@ You see, I'm one of those people who likes to wait to ask for help until I absol
 
 In high school, I was super shy and quiet, and I preferred to work alone. I took a lot of work home because it was easier for me to think. Other people were exhausting to me. 
 
-<iframe src="https://giphy.com/embed/rbDUB907SGjsY" width="480" height="233" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://media.giphy.com/media/rbDUB907SGjsY/giphy.gif" style="min-width: 300px; max-width: 480px;" alt="image" />
 
 College was better with my Graphic Design program. But the teachers were often too busy "holding hands" with the less-technical students to help me. I excelled without much assistance from them and that paved the way for me to become mostly self-taught over the years.
 
@@ -26,7 +26,7 @@ Ruby draws a lot of parallels with JavaScript in that way, yet it's a lot easier
 
 The philosophy of Ruby is about making programmers happy. It's natural yet not simple; simple on the outside, complex on the inside, like the human body. A very Zen concept. And the MINSWAN mantra "Matz is nice, so we are nice" (about Ruby's creator) really resonated with me. I knew I'd end up loving it.
 
-<iframe src="https://giphy.com/embed/3og0IIvzKAa5nkDKIU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://media.giphy.com/media/3og0IIvzKAa5nkDKIU/giphy.gif" style="min-width: 300px; max-width: 480px;" alt="image" />
 
 I really liked the approach of learning how to read Ruby errors FIRST because I feel like a lot of programmers don't focus on fixing errors until later, but a good programmer should think about the past (what we need to solve), present (how we're going to solve it), and future (what can go wrong) at the same time.
 
@@ -36,7 +36,7 @@ Ruby seems to be designed to make you think like that (at least insofar as follo
 
 In the first 2 weeks, each Ruby lab I solved made me feel like a total badass. I plowed through one after the other and felt really good about my progress. Every day I was like: I got it... I get it... I got this!
 
-<iframe src="https://giphy.com/embed/i7mSoaLtlFsmk" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://media.giphy.com/media/i7mSoaLtlFsmk/giphy.gif" style="min-width: 300px; max-width: 480px;" alt="image" />
 
 It wasn't until I got to the more advanced Tic Tac Toe labs that I started to lose some steam. I kept getting frustrated at myself that I wasn't solving the labs as fast as I was before. But I tend to be too hard on myself, and I know that this is how the pacing of learning goes.
 
@@ -46,10 +46,10 @@ Then it came to me, I was being too black and white. This program is about learn
 
 So I did just that; moved onto the **HTML and CSS** course which I knew would be cake because I already know HTML and CSS like the back of my hand. I paused on the "Setting Up a New Site" part since it got into Git version control, then I moved onto the **Git and GitHub** course and learned all that like BOOSH!
 
-<iframe src="https://giphy.com/embed/PhKhSXofSAm3e" width="480" height="191" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://media.giphy.com/media/PhKhSXofSAm3e/giphy.gif" style="min-width: 300px; max-width: 480px;" alt="image" />
 
 Learning Git and GitHub has been on my "To Do" list for YEARS. I understood its purpose but hadn't really delved into the terminology before now and I was scared to death of the Command Line. After knocking that course out I felt like I had accomplished something huge, and it was SO easy to learn!
 
 So I think my new strategy is going to be to go back to the **Intro to Ruby** course and continue my work there, but if I get stuck for a while or complete a really frustrating lab, then I will jump around back to HTML and CSS, crank out a few lessons/labs and feel good about myself again.
 
-<iframe src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" style="min-width: 300px; max-width: 480px;" alt="image" />
