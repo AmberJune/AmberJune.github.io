@@ -5,7 +5,7 @@ date:   2017-07-20 05:02:30 +0000
 ---
 
 
-I had a fun learning experience and big AH-HA! moment today. I was working on a lab where I had to build a playable Tic Tac Toe game in Ruby using helper classes which I had written in several previous labs. I approached this project with a really positive attitude because it felt like something I could totally do. I've always been a great copy-paster.
+I had a fun learning experience today. I was working on a lab where I had to build a playable Tic Tac Toe game in Ruby using helper classes which I had written in several previous labs. I approached this project with a really positive attitude because it felt like something I could totally do. I've always been a great copy-paster.
 
 All was going well at first. I followed the instructions, brought everybody over to the party from the other labs, ran the first RSpec and everyone was playing nicely together and passing.
 
@@ -21,7 +21,7 @@ Errno::ENOENT: No such file or directory
 ```
 The error was something I hadn't seen before and it was complaining about my `gets.strip` in the `#turn` method (which the `#play` method runs in a loop). I Googled and read Stack Overflow forums and tried a few things to no avail.
 
-I analyzed my code up and down and read over the instructions a few times. Everything looked good. Ran the bin and played the game successfully several times, but I was still getting the error on my `gets`
+I analyzed my code up and down and read over the instructions a few times. Everything looked good. Ran the bin and played the game successfully several times, but I was still getting the error on my `gets`.
 
 <img src="https://media.giphy.com/media/ffJiLLtCk5Am4/giphy.gif" style="min-width: 300px; max-width: 300px;" alt="image" class="img-responsive" />
 
@@ -43,7 +43,7 @@ And then I finally saw it.
 
 <img src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif" style="min-width: 300px; max-width: 300px;" alt="image" class="img-responsive" />
 
-I had mistakenly called on `play(board)` at the end of my `#play` method instead of just at the end my CLI (which is where it was supposed to be since the bin initializes the game).
+I had mistakenly called on `play(board)` after the end of my `#play` method instead of just at the end my CLI (which is where it was supposed to be since the bin initializes the game).
 
 Derptastic, and total User-Error! I felt a little silly, and a little dumb, but moreso, I felt kinda lowkey badass for finding that all on my own and that was rewarding to me.
 
