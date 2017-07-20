@@ -33,9 +33,9 @@ Today, I started fresh and decided to intricately comb through it all again. I l
 
 I kept getting either the `Errno::ENOENT` error on the `gets` when running the `learn` command on the master, or a `NoMethodError` on `strip` in each of the RSpecs.
 
-Then I read through the instructions one more time and something jumped out at me:
+Then I read through the instructions again one more time and something jumped out at me:
 
-`A tic tac toe game must allow players to take turns, checking if the game is over after every turn, and at the conclusion of the game, whether because it was won or because it was a draw, reporting to the user the outcome of the game.`
+> A tic tac toe game must allow players to take turns, checking if the game is over after every turn, and at the conclusion of the game, whether because it was won or because it was a draw, reporting to the user the outcome of the game.
 
 The game I was playing (which was "working") was not ending after a draw, it would allow you to continue playing until you had a win. After reading these instructions, I realized the game needed to end after a draw. So it was something wrong with the `#play` method and not actually the `gets` inside of the `#turn` method.
 
