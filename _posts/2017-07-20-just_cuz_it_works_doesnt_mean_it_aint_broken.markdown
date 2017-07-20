@@ -9,7 +9,7 @@ I had a fun learning experience and big AH-HA! moment today. I was working on a 
 
 All was going well at first. I followed the instructions, brought everybody over to the party from the other labs, ran the first RSpec and everyone was playing nicely together and passing.
 
-Building the `#play` method to run the turns for the game was challenging but I figured it out, writing the CLI was cake, and before I knew it I was playing a working game of Tic Tac Toe that **I built in Ruby**.
+Building the `#play` method to run the turns for the game was challenging but I figured it out, writing the CLI was cake, and before I knew it I was playing a working game of Tic Tac Toe that ***I built in Ruby***.
 
 <img src="https://media.giphy.com/media/nXxOjZrbnbRxS/giphy.gif" style="min-width: 300px; max-width: 300px;" alt="image" class="img-responsive" />
 
