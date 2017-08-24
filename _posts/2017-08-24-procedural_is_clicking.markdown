@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Procedural is Clicking"
-date:   2017-08-24 23:48:33 +0000
+date:   2017-08-24 19:48:33 -0400
 ---
 
 
@@ -19,7 +19,7 @@ Sometimes I get way too wrapped up in a part of the little details that I can't 
 
 Learning Ruby has helped with that. As a larger whole, it's made me realize that I tend to be too hard on myself, especially when it comes to learning code.
 
-This is why I ended up dabbling so much over the years. I would start learning a new language then abandon it when it got hard. Then come back to it when it was too late and I didn't remember it enough anymore. Then I would get mad at myself thinking I suck, thus starting the vicious cycle over again.
+This is why I ended up dabbling so much over the years. I would start learning a new language then abandon it when it got hard. Then come back to it when it was too late and I didn't remember it enough anymore. Then I would get mad at myself thinking I suck, thus starting the vicious cycle all over again.
 
 <img src="https://media.giphy.com/media/26vUvzFnGNhNmPN7y/giphy.gif" style="min-width: 300px; max-width: 300px;" alt="image" class="img-responsive">
 
