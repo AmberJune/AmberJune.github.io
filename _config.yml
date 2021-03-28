@@ -1,7 +1,7 @@
 # Site settings
 title: She Does Code
 header-img: img/home-bg.png
-email: blissedtodays@gmail.com
+email: amberjune.design@gmail.com
 copyright_name: Amber Blahnik
 description: > # this means to ignore newlines until "baseurl:"
   Learning, writing, and thinking in code.
@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: AmberJuneDesign
 github_username:  AmberJune
 learn_profile: AmberJune
-email_username: blissedtodays@gmail.com
+email_username: amberjune.design@gmail.com
 
 # Build settings
 markdown: kramdown
